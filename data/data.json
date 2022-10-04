@@ -1,0 +1,26 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "Bjorka wanted ",
+        "description": "Bjorka Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "id": 2,
+        "title": "Indosmalw ",
+        "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      }
+    ],
+    
+    "users": [{
+            "id": 1,
+            "email": "pipo@mail.com",
+            "password": "qwerty"
+          },
+          {
+            "id": 2,
+            "email": "iki@mail.com",
+            "password": "qwerty"
+          }
+        ]       
+}
